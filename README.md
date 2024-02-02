@@ -44,3 +44,8 @@
 <a href="" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.png"></a>
   
 </div>
+<div>
+<a href="https://github.com/Jean-sp">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-sp&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jean-sp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
