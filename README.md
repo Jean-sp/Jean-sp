@@ -49,15 +49,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jean-sp&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jean-sp&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
-</div>
-
----
-
 ## 📬 Vamos Conversar?
 
 <p align="center">
