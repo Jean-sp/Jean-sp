@@ -1,51 +1,73 @@
-## **Sobre Mim:**
+# Olá, eu sou o Jean Pedroso! 👋
 
-* 
-* 
-* 
-* 
-* 
-* 
-
-
-
- ### [💻 Portfólio](https://jeanpedrosoportfolio.vercel.app/)                                                        
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=435&lines=Estudante+de+Programação;Desenvolvedor+em+Evolução;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</div>
 
 <br>
-  
 
-## **Principais Habilidades:**
+## 🚀 Sobre Mim
 
+- 🎓 Estudante de Programação e Desenvolvimento de Software.
+- 💡 Foco atual no aprendizado de **JavaScript**, **Python** e desenvolvimento Web.
+- 🛠️ Experiência prática criando interfaces com **Flet (Python)** e projetos interativos em **JavaScript/HTML/CSS**.
+- 🌐 Confira meus projetos no meu **[Portfólio Online](https://jeanpedrosoportfolio.vercel.app/)**.
+- 🎯 Buscando oportunidades para evoluir como desenvolvedor e criar soluções reais.
 
+---
 
-## **Ferramentas:**
+## 🛠️ Tecnologias e Ferramentas
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+### **Linguagens & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-## **Conhecimentos adicionais:**
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+### **Banco de Dados & Ferramentas**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+</p>
 
-## **Estudando no momento:**
-![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+---
 
-## **Contatos:**
-<div style="display: inline_block">
-  
-<a href="jeanpedroso10@gmail.com" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS0M6ggYz32UW39FkUpTPAqSnNOeCR9YDNZ5bN6iog1RE8sLUbsuzt8O-d02CowQ3pS3Q&usqp=CAU"></a>
-<a href="https://www.linkedin.com/in/jeanpedroso" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
-<a href="https://wa.me/18996586021" target="_blank" style="text-decoration:none;"><img align="center"   height="40" width="40" src="https://logopng.com.br/logos/whatsapp-33.png"></a>
-  
+## 💻 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 🌐 **[Portfólio Web](https://github.com/Jean-sp/portfolio)** | Meu site pessoal publicado na Vercel | HTML, CSS, JavaScript |
+| 🧮 **[Calculadora Flet](https://github.com/Jean-sp/calculador_flet)** | Aplicação de calculadora com interface gráfica | Python, Flet |
+| ⚔️ **[Desafio do Herói](https://github.com/Jean-sp/desafio_heroi)** | Sistema de classificação de nível de heróis | JavaScript |
+| 🏆 **[Calculadora de Rankeadas](https://github.com/Jean-sp/calculadoraderankeada)** | Algoritmo para cálculo de saldo e rank | JavaScript |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jean-sp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-sp&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
 </div>
-<div>
-<a href="https://github.com/Jean-sp">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-sp&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Jean-sp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+---
+
+## 📬 Vamos Conversar?
+
+<p align="center">
+  <a href="https://jeanpedrosoportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
