@@ -1,7 +1,7 @@
 # Olá, eu sou o Jean Pedroso! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=435&lines=Estudante+de+Programação;Desenvolvedor+em+Evolução;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=435&lines=Estudante+de+Programa%C3%A7%C3%A3o;Desenvolvedor+em+Evolu%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
 <br>
